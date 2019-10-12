@@ -15,8 +15,10 @@ body {
 
 .navbar {
 	border-bottom: 2px solid #cccccc;
-	/* background-color: #4aaaa5; */
-	margin: 0 0 30px;
+	background: #4aaaa5;
+	/* margin: 0 0 30px; */
+	/* padding-right: 30px; */
+	margin-right: 0;
 }
 
 ul {
@@ -71,9 +73,6 @@ h2 {
 	padding-bottom: 15px;
 }
 .container {
-	width: 847px;
-	padding: 50px;
-	margin-top: 80px;
 	background: #ffffff;
 	border: #dddddd 2px solid;
 }
