@@ -1,4 +1,4 @@
-# Bootstrap-Portfoli0
+# Bootstrap-Portfolio
 
 Basic portfolio updated with Bootstrap 4. It was created with HTML, CSS, and Bootstrap 4. 
 
