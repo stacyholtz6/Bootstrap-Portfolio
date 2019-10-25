@@ -1,5 +1,8 @@
 # Bootstrap-Portfolio
 
+### Link to portfolio: 
+[portfolio](https://stacyholtz6.github.io/Bootstrap-Portfolio/index.html)
+
 Basic portfolio updated with Bootstrap 4. It was created with HTML, CSS, and Bootstrap 4. 
 
 ## Acknowledgments
